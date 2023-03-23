@@ -45,6 +45,7 @@ The `create_project.py` script reads an Ubercoder JSON file and automatically cr
 3. Run python create_project.py
 
 ## Tic Tac Toe example
+tic_tac_toe_project.json:
 ```json
 {
   "project_name": "tic_tac_toe",
