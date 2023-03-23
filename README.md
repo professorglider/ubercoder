@@ -51,8 +51,7 @@ The `create_project.py` script reads an Ubercoder JSON file and automatically cr
 ### Usage
 
 1. Save your Ubercoder JSON file, for example, as `my_project.json`.
-2. Update the `create_project.py` script to reference your JSON file: json_file = "my_project.json"
-3. Run python create_project.py
+2. Run python create_project.py my_project.json
 
 ## Tic Tac Toe example
 tic_tac_toe_project.json:
