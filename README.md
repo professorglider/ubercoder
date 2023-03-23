@@ -6,6 +6,8 @@ You may ask GPT-4 to answer using this format if you're tired of the programmer'
 
 Enjoy!
 
+P.S. Yep, just paste the documentation below into ChatGPT and ask to create a project in this format. You know what to do.
+
 ## Ubercoder JSON Format
 
 The Ubercoder JSON format is a universal, computer-readable format for project declaration. It specifies the folder structure, commands, and files required for a project.
