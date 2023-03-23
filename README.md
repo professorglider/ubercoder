@@ -38,6 +38,12 @@ A file object has the following keys:
 - `name` (string): The file path relative to the project root.
 - `content` (string): The content of the file.
 
+### Environment Variables File Object
+An environment variables file object has the following keys:
+
+- `name` (string): The name of the environment variables file, e.g., ".env".
+- `content` (string): The content of the environment variables file.
+
 ## Create Project Script
 
 The `create_project.py` script reads an Ubercoder JSON file and automatically creates the project folder structure, files, and executes the specified commands.
@@ -71,6 +77,10 @@ tic_tac_toe_project.json:
       ]
     }
   ],
+  "env_file": {
+    "name": ".env",
+    "content": "API_KEY=your_api_key_here\nAPP_ENV=development\n"
+  },
   "commands": [],
   "files": [
     {
