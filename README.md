@@ -1,12 +1,6 @@
-# ChatGPT Meets Ubercoder: A Dev's Dream Come True 🤖✨
+# ChatGPT and Ubercoder: A Developer's Perfect Match
 
-Ever dreamed of having your very own genie in a bottle? Ubercoder, paired with ChatGPT, is here to grant your project creation wishes! 🧞‍♂️ This powerful duo will breathe life into your projects using the Ubercoder JSON format and the create_project.py script.
-
-No more copy-pasting nightmares! 😱 Just hand over the Ubercoder JSON format (described below) alongside with your idea to ChatGPT, and watch your project unfold like magic! ✨
-
-For developers seeking project automation through ChatGPT, look no further. Your quest ends here!
-
-Enjoy!
+Say goodbye to time-consuming project setups! With the Ubercoder JSON format and ChatGPT working together, you can create projects effortlessly. Just provide ChatGPT with the format listed below alongside with the idea you want to implement, and it will generate an Ubercoder JSON for you. Next, use the handy create_project.py script to bring your project to life!
 
 P.S. Yep, just paste the documentation below into ChatGPT and ask to create a project in this format. You know what to do.
 
