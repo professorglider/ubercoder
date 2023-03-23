@@ -2,6 +2,8 @@
 
 This documentation describes the Ubercoder JSON format and the `create_project.py` script, which automates the process of setting up projects based on the Ubercoder JSON format.
 
+You may ask GPT-4 to answer using this format if you're tired of the programmer's last resort: copy-pasting :P
+
 ## Ubercoder JSON Format
 
 The Ubercoder JSON format is a universal, computer-readable format for project declaration. It specifies the folder structure, commands, and files required for a project.
